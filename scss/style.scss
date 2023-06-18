@@ -1,4 +1,4 @@
-@import '_partial';
+@import 'partial';
 
 $myFont: Helvetica, sans-serif;
 // $myColor: red;
@@ -9,6 +9,7 @@ body {
   font-family: $myFont;
   font-size: $myFontSize;
   color: $myPink;
+  background: $bgcolor;
 }
 
 #container {
